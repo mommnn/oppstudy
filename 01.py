@@ -14,6 +14,7 @@ class PythonStudent():
     # 用None给不确定的值赋值
     name = None
     age = 18
+    home = "japan"
     course = "python"
 
     # 系统默认的self参数
