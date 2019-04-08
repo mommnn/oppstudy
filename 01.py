@@ -23,9 +23,7 @@ class PythonStudent():
         return None
 # 示例化一个具体的人
 cxk = PythonStudent()
-sxc = PythonStudent()
 print(cxk.name)
 print(cxk.age)
 # 注意成员函数的调用没有传递进入参数
 cxk.doHomework()
-sxc = PythonStudent()
