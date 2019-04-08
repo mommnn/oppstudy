@@ -28,3 +28,4 @@ print(cxk.name)
 print(cxk.age)
 # 注意成员函数的调用没有传递进入参数
 cxk.doHomework()
+sxc = PythonStudent()
